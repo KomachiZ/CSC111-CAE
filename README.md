@@ -1,1 +1,1 @@
-# CSC111-CAE
+# CSC111-course-assistance-extension
